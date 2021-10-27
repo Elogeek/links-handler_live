@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    version Dev-localhost/ alpha ===> version préprod
+    version Dev-localhost ===> version préprod
      Coucou coucou coucou tranquille
 </body>
 </html>
