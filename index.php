@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    version Dev-localhost ===> version préprod
+    version Dev/ php -S localhost:8000 ===> version préprod
      Coucou coucou coucou tranquille
 </body>
 </html>
