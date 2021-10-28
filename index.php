@@ -8,21 +8,26 @@
     <title>Document</title>
 </head>
 <body>
+
     <h1>Hello from dev branch !</h1>
     version Dev/ php -S localhost:8000 ===> version préprod
+
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque delectus deserunt doloremque enim et expedita
-        iste, itaque laboriosam laborum molestias nam, possimus reiciendis repellendus reprehenderit sapiente sequi
-        vitae voluptatem voluptates!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque delectus deserunt doloremque enim et expedita
+    iste, itaque laboriosam laborum molestias nam, possimus reiciendis repellendus reprehenderit sapiente sequi
+    vitae voluptatem voluptates!
     </p>
+
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aut consectetur, debitis dolorem doloribus et
-        impedit incidunt magnam obcaecati, odit officiis praesentium provident, quam quo quod repellat tenetur unde
-        velit!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aut consectetur, debitis dolorem doloribus et
+    impedit incidunt magnam obcaecati, odit officiis praesentium provident, quam quo quod repellat tenetur unde
+    velit!
     </p>
+
     <p>
-        Autem id ipsum iusto laudantium neque omnis quas recusandae voluptas? Aperiam consectetur doloribus ea, ipsa,
-        ipsum labore numquam optio, porro reprehenderit similique vitae voluptate voluptates. A cum dicta eum incidunt.
+    Autem id ipsum iusto laudantium neque omnis quas recusandae voluptas? Aperiam consectetur doloribus ea, ipsa,
+    ipsum labore numquam optio, porro reprehenderit similique vitae voluptate voluptates. A cum dicta eum incidunt.
     </p>
+
 </body>
 </html>
